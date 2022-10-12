@@ -1,0 +1,32 @@
+@font-face{
+    font-family: Lobster;
+    src: url(fonts/Lobster-Regular.ttf)
+  }
+  
+  body {
+    font-family: Lobster, cursive;
+  }
+
+  header{
+    display: flex;
+  }
+
+  nav{
+    align-self: center;
+  }
+  ul{
+    
+    display: flex;
+    list-style-type: none;
+  }
+
+  ul li{
+    text-align: center;
+    vertical-align: middle;
+    padding: 0 20px;
+  }
+
+  #passions :hover{
+
+  }
+
